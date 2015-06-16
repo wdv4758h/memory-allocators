@@ -1,0 +1,3 @@
+[submodule "allocators/jemalloc"]
+	path = allocators/jemalloc
+	url = https://github.com/jemalloc/jemalloc
