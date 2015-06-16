@@ -1,3 +1,6 @@
 [submodule "allocators/jemalloc"]
 	path = allocators/jemalloc
 	url = https://github.com/jemalloc/jemalloc
+[submodule "allocators/nedmalloc"]
+	path = allocators/nedmalloc
+	url = https://github.com/ned14/nedmalloc
